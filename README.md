@@ -30,6 +30,9 @@
 ### Spam Detection System
 Machine learning model to classify spam emails.
 
+### AI Sales Assistant
+Developed an AI-powered sales assistant for customer interaction analysis.
+
 ### Deepfake Detection System
 AI-based project to detect manipulated images and videos.
 
